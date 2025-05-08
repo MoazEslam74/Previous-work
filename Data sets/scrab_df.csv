@@ -1,0 +1,189 @@
+gender,age,video category,platform,total time spent,location,demographic,indept,income,owns property,number of sessions,video length,importance score,time spent on video,number of videos watched,scroll rate,frequency,prodactivity loss,satisfication,watch reason,device type,os,watch time,self control,currentactivity,connectiontype,profession
+Male,15,Academic,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,15,Academic,Tumblr,90,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,1.0,,,Student
+Female,15,Entertainment,Tumblr,90,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,1.0,,,Student
+Female,15,Entertainment,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,1.0,,,Student
+Male,15,Entertainment,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,2.0,,,Student
+Male,15,Entertainment,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,2.0,,,smartphone,,,2.0,,,Student
+Female,15,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,2.0,,,Student
+Male,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,3.0,,,Student
+Female,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,3.0,,,Student
+Female,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,3.0,,,Student
+Female,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,3.0,,,Student
+Male,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,4.0,,,Student
+Female,15,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,4.0,,,Student
+Female,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,4.0,,,Student
+Male,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,15,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,15,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,15,Social media,Other,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,15,Social media,Other,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,16,Entertainment,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,16,Entertainment,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,16,Entertainment,Tumblr,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,16,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,tablet,,,1.0,,,Student
+Male,16,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,16,Entertainment,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,16,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,3.0,,,Student
+Male,16,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,16,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,16,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,4.0,,,Student
+Male,16,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,5.0,,,Student
+Female,16,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,16,Social media,Other,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Academic,Facebook,30,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,17,Academic,Facebook,30,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,17,Academic,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,17,Academic,Twitter,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,17,Academic,Twitter,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,17,Academic,Twitter,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,17,Academic,Twitter,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,17,Entertainment,Tumblr,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,Tumblr,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,Tumblr,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,smartphone,,,1.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,tablet,,,1.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Social media,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,17,Social media,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,17,Social media,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,3.0,,,Student
+Male,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,3.0,,,Student
+Male,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,17,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,4.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,4.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,17,Social media,Other,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,18,Academic,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,18,Academic,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,18,Academic,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,18,Academic,Facebook,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Academic,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Academic,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Academic,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Academic,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Academic,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Academic,YouTube,90,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Female,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,1.0,,,Student
+Male,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,2.0,,,Student
+Male,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,2.0,,,Student
+Male,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,1.0,,,pc,,,2.0,,,Student
+Male,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,2.0,,,Student
+Male,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,2.0,,,Student
+Male,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,2.0,,,Student
+Female,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,pc,,,2.0,,,Student
+Female,18,Entertainment,YouTube,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,smartphone,,,2.0,,,Student
+Female,18,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,18,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,18,Entertainment,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Female,18,Social media,Instagram,240,Kwait,Urban,False,0,False,,,,,,,,2.0,,,tablet,,,2.0,,,Student
+Male,18,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,18,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,18,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,3.0,,,tablet,,,3.0,,,Student
+Male,18,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,3.0,,,Student
+Female,18,Social media,WhatsApp,240,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,3.0,,,Student
+Female,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,3.0,,,Student
+Female,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,4.0,,,tablet,,,3.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,4.0,,,Student
+Female,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,4.0,,,Student
+Female,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,4.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Male,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,WhatsApp,450,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,Snapchat,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,Other,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
+Female,18,Social media,Other,510,Kwait,Urban,False,0,False,,,,,,,,5.0,,,tablet,,,5.0,,,Student
